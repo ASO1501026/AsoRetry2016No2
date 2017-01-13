@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsoRetry2016No2</string>
+    <string name="google_button">Google</string>
+    <string name="mail_button">メール</string>
+    <string name="subject">テキスト入力</string>
+    <string name="memo_send_button">メモ送信</string>
+    <string name="mail_to">1501026@st.asojuku.ac.jp</string>
+</resources>
